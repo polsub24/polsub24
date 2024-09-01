@@ -5,7 +5,7 @@ _Tools:_
 VS Code, Python, MySQL
 
 - 🔭 I’m currently working on something impactful
-- 🌱 I’m currently learning to upskill myself
+- 🌱 I’m currently upskilling myself
 - 📫 How to reach me: Twitter(polsub24), LinkedIn(subhamsarkar06)
 - 😄 Pronouns: He/Him
 
