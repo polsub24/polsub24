@@ -2,7 +2,7 @@
 My name is Subham Sarkar, currently pursuing BTech. in Electronics and Communication
 
 _Tools:_
-VS Code, Python, MySQL
+VS Code, Python, MySQL, HTML5, CSS3
 
 - 🔭 I’m currently working on something impactful
 - 🌱 I’m currently upskilling myself
