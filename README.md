@@ -1,5 +1,8 @@
 <h1 align="center">Hey 👋 What's up? This is Subham</h1>
-<h4 align="left">I'm an Electronics and Communication Engineering undergraduate, passionate about harnessing the power of data to create innovative and impactful solutions. My focus lies in developing data-driven solutions that can solve real-world problems, and I'm always eager to dive into projects that push the boundaries of technology and analytics. With a growing interest in space science, I'm exploring how data can drive advancements in this fascinating field. I'm committed to leveraging my technical skills to contribute to projects at the intersection of space and technology.</h4>
+<h4 align="left">I am an Electronics and Communication Engineering undergraduate with a strong focus on electromagnetic research and assistive technology development. Currently, I am working as a Research Intern at Vellore Institute of Technology, where I am exploring electromagnetic wave absorbers in the X-band (8-12 GHz). My work involves unit cell design, material selection, and simulation-driven analysis to enhance absorption efficiency, contributing to advancements in stealth and radar-absorbing materials.
+
+Alongside my research, I have developed Hand Talk, a wearable assistive device designed to help individuals with speech and hearing impairments communicate effectively. The device utilizes flex sensors embedded in a glove to capture sign language gestures and convert them into real-time text output via an Arduino-based system, improving accessibility and interaction for the differently-abled.</h4>
+
 
 - 🌱 I’m currently learning **Web Development**
 
