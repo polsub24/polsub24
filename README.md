@@ -10,8 +10,15 @@ Performing simulation-based analyses to enhance absorption efficiency
 
 This research contributed to advancements in stealth technology and radar-absorbing materials.</h4>
 
+<h4 align='left'> 🤖 I also developed Hand Talk, a wearable assistive device designed to support individuals with speech and hearing impairments.
 
-- 🌱 I’m currently learning **Web Development**
+The system uses flex sensors embedded in a glove to capture sign language gestures
+
+An Arduino-based controller processes and converts these gestures into real-time text output
+
+The goal is to improve accessibility and real-world interaction for the differently-abled </h4>
+
+- 💻 Currently learning: Full-stack Web Development to expand my ability to build impactful, user-centric solutions.
 
 - 📫 Reach me at **poltu2108@gmail.com**
 
